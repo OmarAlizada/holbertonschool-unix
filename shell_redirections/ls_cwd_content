@@ -1,0 +1,10 @@
+total 32
+drwxr-xr-x 2 root root 4096 Apr  9 16:34 .
+drwxr-xr-x 4 root root 4096 Apr  9 11:36 ..
+-rwxr--r-- 1 root root   28 Apr  9 11:37 0-hellofile
+-rwxr--r-- 1 root root   35 Apr  9 15:28 1-lastlines
+-rwxr--r-- 1 root root   35 Apr  9 15:30 2-firstlines
+-rwxr--r-- 1 root root   40 Apr  9 15:46 3-third_line
+-rwxr--r-- 1 root root   36 Apr  9 16:33 4-cwd_state
+-rw-r--r-- 1 root root   58 Apr  9 15:45 iacta
+-rw-r--r-- 1 root root    0 Apr  9 16:34 ls_cwd_content
